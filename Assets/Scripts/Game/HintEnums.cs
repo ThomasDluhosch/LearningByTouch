@@ -1,0 +1,2 @@
+public enum SpawnLocation { Neutral, SquatRack, Seilzug, Bauch, Rudern, Trizeps, Spiegel, Reverse}
+public enum Pose {Bauch, Beine, Bizeps, Brachioradialis, Butterfly, Deadlift, Neutral, Rudern, Schultern, Trizeps}

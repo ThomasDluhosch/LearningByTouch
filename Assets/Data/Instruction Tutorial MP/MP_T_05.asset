@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3b8935bdc98f34d814e8e4288fa30b, type: 3}
+  m_Name: MP_T_05
+  m_EditorClassIdentifier: 
+  text: "{cr}\u2265 70 % {cc}Genauigkeit: Super! N\xE4chster Muskel.\\n\\n{cf}< 70
+    %{cc}: Ihr bekommt hilfreiche Tipps.\\n\\nJeder von euch kann {cr}5 verschiedene\\nMuskeln{cc}
+    einzeichnen.\\n\\nIhr habt {cr}3 Versuche{cc} pro Muskel\\nDanach wird dieser
+    \xFCbersprungen."
+  audioClip: {fileID: 8300000, guid: 179eab5a6c8234f4a8a26863b1ce9f22, type: 3}
+  targetDisplay: 0

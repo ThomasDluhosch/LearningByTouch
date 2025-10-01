@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3b8935bdc98f34d814e8e4288fa30b, type: 3}
+  m_Name: FinishedStudy
+  m_EditorClassIdentifier: 
+  text: "{cr}Studie abgeschlossen!{cc}\\n\\nDie VR-Brillen k\xF6nnen \\njetzt abgesetzt
+    werden! \\n\\nF\xFCr Teil 2 bitte an die \\nStudienleitung wenden."
+  audioClip: {fileID: 8300000, guid: 72115090236a7434cab45ccca63f47f5, type: 3}
+  targetDisplay: 0

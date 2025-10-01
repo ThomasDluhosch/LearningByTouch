@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51146de859ca8f4ab71ac348ed753da, type: 3}
+  m_Name: MuscleData-Gluteus_Maximus
+  m_EditorClassIdentifier: 
+  Index: 6
+  LatinName: gluteus maximus
+  GermanName: "Gro\xDFer Ges\xE4\xDFmuskel"
+  function: "H\xFCftstreckung; Au\xDFenrotation des Beines; Stabilisierung; Abduktion
+    und Adduktion"
+  ReferenceTexture: {fileID: 2800000, guid: 9ef88926b2145444eb879232572adf8d, type: 3}
+  spawnLocation: 1
+  pose: 5

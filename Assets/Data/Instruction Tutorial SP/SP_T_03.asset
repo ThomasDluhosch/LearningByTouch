@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3b8935bdc98f34d814e8e4288fa30b, type: 3}
+  m_Name: SP_T_03
+  m_EditorClassIdentifier: 
+  text: "\xDCber das Men\xFC am \\nHandgelenk kannst du:\\n\\nPinselgr\xF6\xDFe einstellen\\nFarbe
+    w\xE4hlen\\nRadiergummi aktivieren\\nZeigefinger wechseln"
+  audioClip: {fileID: 8300000, guid: e7f3dbca4e9f04845acb4f511a9de552, type: 3}
+  targetDisplay: 0
